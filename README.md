@@ -5,8 +5,8 @@ pip install -r requirements.txt
 ```
 
 ```
-mkdir html
+mkdir html tmp
+```
+```
   - html/'my_html_data'
-  
-mkdir tmp
 ```
