@@ -1,7 +1,5 @@
 # replace_name_photo
 
-# "Replace name photo"
-
 ```
 pip install -r requirements.txt
 ```
